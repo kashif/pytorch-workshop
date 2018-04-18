@@ -5,7 +5,7 @@
 * Clone this repository:
 
 ```
-$ git clone github.com/kashif/pytorch-workshop.git
+$ git clone https://github.com/kashif/pytorch-workshop.git
 ```
 
 * Install packages
