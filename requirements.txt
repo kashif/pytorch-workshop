@@ -4,3 +4,4 @@ torchtext
 jupyter
 matplotlib
 numpy
+pandas
